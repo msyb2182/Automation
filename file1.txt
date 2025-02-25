@@ -1,0 +1,32 @@
+First file
+git init
+git remote add origin ""
+git pull origin main
+git status
+
+In windows,
+
+go to .git folder
+delete git.lock file
+add, commit and push your code
+this worked for me
+
+
+git add -A
+git status
+git commit -a -m ""
+git log
+
+new brach
+git checkout firstbranch
+git add file4.txt
+ls
+
+Merge branch 'firstbranch'
+# Please enter a commit message to explain why this merge is necessary,
+# especially if it merges an updated upstream into a topic branch.
+#
+# Lines starting with '#' will be ignored, and an empty message aborts
+# the commit.
+
+add new line
